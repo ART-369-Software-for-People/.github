@@ -5,5 +5,5 @@ In this studio course, students create work within the web browser to explore wh
 
 This class was designed by [Rosa McElheny](https://rosamcelheny.com/). This Fall 2024 iteration is taught by [Alvin Ashiatey](https://alvinashiatey.com/).
 
-Mondays, 3:30 p.m. – 7:20 p.m.
-[GREEN 210 - Green Hall (1156 Chapel) 210](https://map.yale.edu/?id=1910#!m/560064).
+- 🗓️: Mondays, 3:30 p.m. – 7:20 p.m.
+- 🕒: [GREEN 210 - Green Hall (1156 Chapel) 210](https://map.yale.edu/?id=1910#!m/560064).
